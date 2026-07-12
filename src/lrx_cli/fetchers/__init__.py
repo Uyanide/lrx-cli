@@ -46,9 +46,9 @@ _FETCHER_GROUPS: list[list[FetcherMethodType]] = [
     ["local"],
     ["cache-search"],
     ["spotify"],
+    ["netease", "qqmusic"],
     ["lrclib", "musixmatch-spotify"],
     ["lrclib-search", "musixmatch"],
-    ["netease", "qqmusic"],
 ]
 
 
