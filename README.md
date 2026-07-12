@@ -188,7 +188,7 @@ Install to user-level (optional):
 uv tool install .
 ```
 
-## Credits
+## Special Thanks To
 
 - [lrclib.net](https://lrclib.net)
 - [spotify-lyrics-api](https://github.com/akashrchandran/spotify-lyrics-api)
