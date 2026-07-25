@@ -61,7 +61,7 @@ MULTI_CANDIDATE_DELAY_S = 0.2  # delay between sequential lyric fetches
 LEGACY_CONFIDENCE = 50.0
 
 # User-Agents
-UA_BROWSER = "Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0"
+UA_BROWSER = "Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
 UA_LRX = f"LRX-CLI {APP_VERSION} (https://github.com/Uyanide/lrx-cli)"
 
 MUSIXMATCH_COOLDOWN_MS = 600_000  # 10 minutes

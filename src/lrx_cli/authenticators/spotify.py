@@ -30,7 +30,7 @@ SPOTIFY_BASE_HEADERS = {
     "Referer": "https://open.spotify.com/",
     "Origin": "https://open.spotify.com",
     "App-Platform": "WebPlayer",
-    "Spotify-App-Version": "1.2.88.21.g8e037c8f",
+    # "Spotify-App-Version": "1.2.96.41.g099e5522",
 }
 
 
